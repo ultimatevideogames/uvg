@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Battletoads in Battlemaniacs",
+    "platform": "Super Nintendo",
+    "genre": "Beat 'Em Up",
+    "developer": "Rare",
+    "publisher": "Tradewest",
+    "region": "PAL",
+    "imageName": "Battletoads in Battlemaniacs.png"
+  },
+  {
+    "title": "Power Drive",
+    "platform": "Super Nintendo",
+    "genre": "Racing",
+    "developer": "Rage Software",
+    "publisher": "U.S. Gold",
+    "region": "PAL",
+    "imageName": "Power Drive.png"
+  },
+  {
+    "title": "Super Punch-Out!!",
+    "platform": "Super Nintendo",
+    "genre": "Sports",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "region": "PAL",
+    "imageName": "Super Punch-Out!!.png"
+  },
+  {
+    "title": "Super R-Type",
+    "platform": "Super Nintendo",
+    "genre": "Shooter",
+    "developer": "Irem",
+    "publisher": "Irem",
+    "region": "PAL",
+    "imageName": "Super R-Type.png"
+  },
+  {
+    "title": "Super Smash T.V.",
+    "platform": "Super Nintendo",
+    "genre": "Shooter",
+    "developer": "Williams Entertainment",
+    "publisher": "Acclaim",
+    "region": "PAL",
+    "imageName": "Super Smash T.V..png"
+  },
+  {
+    "title": "Super Soccer",
+    "platform": "Super Nintendo",
+    "genre": "Sports",
+    "developer": "Human Entertainment",
+    "publisher": "Nintendo",
+    "region": "PAL",
+    "imageName": "Super Soccer.png"
+  },
+  {
+    "title": "Super Star Wars",
+    "platform": "Super Nintendo",
+    "genre": "Action",
+    "developer": "Sculptured Software",
+    "publisher": "JVC",
+    "region": "PAL",
+    "imageName": "Super Star Wars.png"
+  },
+  {
+    "title": "Super Street Fighter II",
+    "platform": "Super Nintendo",
+    "genre": "Fighting",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "region": "PAL",
+    "imageName": "Super Street Fighter II.png"
+  },
+]
