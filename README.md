@@ -12,4 +12,4 @@ support@william.me.uk
 
 ## Privacy Policy
 
-See [our Privacy Policy](privacy.md).
+See [our Privacy Policy](https://github.com/ultimatevideogames/uvg/blob/main/PRIVACY.md).
