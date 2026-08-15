@@ -1,15 +1,26 @@
-# Ultimate Video Games — Support
+Ultimate Video Games
 
-Ultimate Video Games is a collection tracker for games, consoles, and 
-accessories, with automatic syncing across your devices via iCloud.
+Ultimate Video Games is a collection tracker for video games, consoles and accessories.
 
-## Need help?
+The app is designed to help collectors organise their collection, keep track of what they own, search and filter their items, add custom information, import collections and create backups.
 
-If you've run into a bug, have a feature request, or need help with 
-something in the app, raise an issue or if you prefer you can send an email:
+The app has no account or login system and does not require a subscription or in-app purchase.
+
+Support
+
+If you have found a bug, need help using the app, or have a feature request, please open an issue in this repository.
+
+If you prefer to contact me directly, email:
 
 support@william.me.uk
 
-## Privacy Policy
+When reporting a problem, it is helpful to include:
 
-See [our Privacy Policy](https://github.com/ultimatevideogames/uvg/blob/main/PRIVACY.md).
+* The device you are using
+* Your iOS, iPadOS or macOS version
+* The version of Ultimate Video Games
+* What you were trying to do
+* What happened
+* Any error message displayed
+
+Please do not include passwords, API credentials, private collection data or other sensitive information in an issue.
