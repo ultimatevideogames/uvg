@@ -39,7 +39,9 @@ The app is designed to let you manage your collection without needing an online 
 <img src="https://github.com/user-attachments/assets/e6fc0a94-82db-42b0-a505-9b61fbcd661e" alt="Ultimate Video Games on iPhone" width="32%">
 <img src="https://github.com/user-attachments/assets/49f2cb47-e2bf-4079-899a-7b151def4f33" alt="Ultimate Video Games on iPhone" width="32%">
 </p>
+
 ### iPad
+
 <img src="https://github.com/user-attachments/assets/b46af757-4d53-4433-b350-78aa0568f23a" alt="Ultimate Video Games on iPad" width="60%">
 
 
