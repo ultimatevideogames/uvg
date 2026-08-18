@@ -4,14 +4,24 @@ Ultimate Video Games allows you to quickly build your collection using a custom 
 
 ## Example JSON entry
 
+```json
+
 {
+
   "title": "Battletoads in Battlemaniacs",
+
   "platform": "Super Nintendo",
+
   "genre": "Beat 'Em Up",
+
   "developer": "Rare",
+
   "publisher": "Tradewest",
+
   "region": "PAL",
+
   "imageName": "Battletoads in Battlemaniacs.png"
+
 }
 
 ## Importing your dataset
